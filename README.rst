@@ -1,4 +1,5 @@
 Website for phpMyAdmin
+welcome phpadmin
 ======================
 
 Django code for phpMyAdmin's website.
